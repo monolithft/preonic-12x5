@@ -14,8 +14,6 @@ This repo contains layout-specific and a build files. Keyboard firmware used is 
 ## Firware
 #### matrix pins
 ![down case](/visual/matrix_pins.png) 
-#### matrix
-![matrix](/visual/matrix.png)  
 
 
 ## References
