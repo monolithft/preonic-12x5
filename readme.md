@@ -3,7 +3,6 @@
 This repo contains layout-specific and a build files. Keyboard firmware used is the open-source [QMK](https://qmk.fm/). 
 
 ## Case
-![top case](/visual/photo_3.jpg) 
 ![down case](/visual/photo_2.jpg)  
 ![down case](/visual/photo_5.jpg)
 
